@@ -58,9 +58,9 @@
     width: 802.9px;
     height: 500px;
     flex-shrink: 0;
-    margin-left: 280px;
-    margin-top: 40px;
     background-repeat: no-repeat;
+    background-image: url(../images/New\ Year\ Photo.png);
+    margin: 45px auto 0px auto;
 }
 .section-1{
     border-radius: 16px;
