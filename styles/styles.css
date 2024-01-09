@@ -28,8 +28,8 @@
     height: 600px;
     flex-shrink: 0;
     border-radius: 16px;
-    margin: 16px 16px 16px 16px;
-    }
+    margin: 20px auto 16px auto;
+}
 .discount{
     color: #F00;
     text-align: center;
@@ -60,10 +60,11 @@
     flex-shrink: 0;
     margin-left: 280px;
     margin-top: 40px;
+    background-repeat: no-repeat;
 }
 .section-1{
     border-radius: 16px;
-    margin: 160px 16px 16px 16px;
+    margin: 160px auto 16px auto;
     }
 .midnight-party{
     width: 642px;
@@ -108,6 +109,7 @@
     align-items: center;
     flex-shrink: 0;
     margin: 65px 30px 0px 65px;
+    background-repeat: no-repeat;
 }
 .section-2{
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
@@ -117,7 +119,8 @@
     flex-shrink: 0;
     display: flex;
     border-radius: 16px;
-    margin: 80px 16px 16px 16px;
+    margin: 80px auto 16px auto;
+    background-repeat: no-repeat;
     }
 .address{
     color: #F00;
@@ -154,7 +157,7 @@ span{
     flex-shrink: 0;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     border-radius: 16px;
-    margin: 80px 16px 16px 16px;
+    margin: 80px auto 16px auto;
     }
 .join{
     color: #FFF;
@@ -239,7 +242,7 @@ span{
     background-image:  #FFF;
     justify-content: space-between;
     border-radius: 16px;
-    margin: 80px 16px 16px 16px;
+    margin: 80px auto 16px auto;
 }
 .functional{
     color: #070211;
@@ -296,7 +299,7 @@ span{
     width: 1320px;
     height: 800px;
     border-radius: 16px;
-    margin: 135px 16px 16px 16px;
+    margin: 135px auto 16px auto;
 }
 .gifts{
     color: #F00;
@@ -339,7 +342,7 @@ span{
 .section-6{
     width: 1320px;
     border-radius: 16px;
-    margin: 240px 16px 16px 16px;
+    margin: 240px auto 16px auto;
 }
 .img-email{
     width: 150px;
@@ -412,7 +415,7 @@ span{
     flex-shrink: 0;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
-    margin: 80px 16px 16px 16px;
+    margin: 80px auto 16px auto;
 }
 .building{
     color: #FFF;
