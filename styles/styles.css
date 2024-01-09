@@ -429,6 +429,7 @@ span{
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    margin: 265px 0px 0px 0px;
 }
 .number{
     color: #FFF;
@@ -450,14 +451,11 @@ span{
     font-size: 24px;;
     font-weight: 500;
     text-decoration: none;
-    margin: 280px 0px 0px 140px;
+    margin: 265px 0px 0px 140px;
     display: block;
 }
 .footer-column{
     margin:130px 90px 0px 90px;
-}
-.reserved{
-    margin: 240px 0px 0px 0px;
 }
 .number, .website{
     margin-right: 100px;
